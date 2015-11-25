@@ -1,0 +1,20 @@
+{
+  "name": "deploy",
+  "version": "0.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "axross <kou@axross.org> (http://axross.me/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axross/deploy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/axross/deploy/issues"
+  },
+  "homepage": "https://github.com/axross/deploy#readme"
+}
